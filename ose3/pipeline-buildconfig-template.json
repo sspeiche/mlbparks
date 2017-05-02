@@ -5,7 +5,7 @@
     "name": "mlbparks-pipeline"
   },
   "labels": {
-    "app": "mlbparks-pipeline",
+    "app": "mlbparks",
     "createdBy": "mlbparks-template"
   },
   "parameters": [
