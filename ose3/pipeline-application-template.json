@@ -9,7 +9,7 @@
     }
   },
   "labels": {
-    "application": "mlbparks",
+    "app": "mlbparks",
     "createdBy": "mlbparks-template"
   },
   "parameters": [

@@ -20,7 +20,7 @@
       "description": "Git source URI for application",
       "displayName": "Git source repository",
       "name": "GIT_URI",
-      "value": "https://github.com/openshift-roadshow/mlbparks.git",
+      "value": "https://github.com/sspeiche/mlbparks.git",
       "required": true
     },
     {
